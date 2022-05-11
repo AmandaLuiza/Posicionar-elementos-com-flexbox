@@ -1,5 +1,5 @@
-# Posicionar-elementos-com-flexbox
-Projeto com intuito de mudar os elementos através do flexbox 
+# Posicionar-elementos-com-flexbox na alura 
+Projeto com intuito de mudar os elementos através do flexbox da alura
 
 
 Visualização do site 
